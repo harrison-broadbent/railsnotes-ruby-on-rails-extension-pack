@@ -2,7 +2,7 @@
   "name": "railsnotes-ruby-on-rails-extension-pack",
   "displayName": "RailsNotes Ruby on Rails Extension Pack",
   "description": "Quickly setup VS Code for Ruby on Rails development.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "RailsNotes",
   "icon": "icon.png",
   "repository": {
@@ -24,11 +24,11 @@
   "extensionPack": [
     "castwide.solargraph",
     "shopify.ruby-lsp",
-    "marcoroth.stimulus-lsp",
     "testdouble.vscode-standard-ruby",
     "rubocop.vscode-rubocop",
     "jnbt.vscode-rufo",
     "aliariff.vscode-erb-beautify",
-    "vortizhe.simple-ruby-erb"
+    "vortizhe.simple-ruby-erb",
+    "marcoroth.stimulus-lsp"
   ]
 }
