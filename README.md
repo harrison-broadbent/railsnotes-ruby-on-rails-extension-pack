@@ -1,16 +1,14 @@
-# railsnotes-ruby-on-rails-extension-pack README
+# RailsNotes Ruby on Rails Extension Pack
 
-## Working with Markdown
+Quickly make VS Code usable for Ruby on Rails development with this extension pack.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This extension pack installs the following extensions:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- [Language Server] Shopify Ruby LSP
+- [Language Server] Solargraph
+- [LSP Integrations] Stimulus LSP
+- [Linting / Formatting] Standard
+- [Linting / Formatting] Rubocop
+- [Linting / Formatting] Rufo
+- [ERB formatting] VS Code ERB Beautify
+- [ERB formatting] Simple Ruby ERB

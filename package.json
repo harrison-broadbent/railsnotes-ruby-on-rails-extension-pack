@@ -2,11 +2,19 @@
   "name": "railsnotes-ruby-on-rails-extension-pack",
   "displayName": "RailsNotes Ruby on Rails Extension Pack",
   "description": "Quickly setup VS Code for Ruby on Rails development.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "RailsNotes",
+  "icon": "icon.png",
   "repository": {
+    "type": "git",
     "url": "https://github.com/harrison-broadbent/railsnotes-ruby-on-rails-extension-pack"
   },
+  "keywords": [
+    "ruby on rails",
+    "ruby",
+    "rails",
+    "ruby on rails extension pack"
+  ],
   "engines": {
     "vscode": "^1.86.0"
   },
