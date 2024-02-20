@@ -1,0 +1,26 @@
+{
+  "name": "railsnotes-ruby-on-rails-extension-pack",
+  "displayName": "RailsNotes Ruby on Rails Extension Pack",
+  "description": "Quickly setup VS Code for Ruby on Rails development.",
+  "version": "1.0.0",
+  "publisher": "RailsNotes",
+  "repository": {
+    "url": "https://github.com/harrison-broadbent/railsnotes-ruby-on-rails-extension-pack"
+  },
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "castwide.solargraph",
+    "shopify.ruby-lsp",
+    "marcoroth.stimulus-lsp",
+    "testdouble.vscode-standard-ruby",
+    "rubocop.vscode-rubocop",
+    "jnbt.vscode-rufo",
+    "aliariff.vscode-erb-beautify",
+    "vortizhe.simple-ruby-erb"
+  ]
+}
